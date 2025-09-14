@@ -243,5 +243,3 @@ st.write("""
 - Higher **MonthlyCharges** often align with higher churn in many Telco datasets—verify this pattern with your filters.
 - **Shorter tenure** groups can show higher churn; use *tenure* range to check.
 """)
-
-st.caption("Tip: Use the screen recorder of your choice for the 3–5 minute demo video. The app is designed so you can walk through filters, KPIs, and charts to tell a data story.")
